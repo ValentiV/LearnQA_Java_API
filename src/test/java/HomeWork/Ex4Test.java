@@ -1,9 +1,11 @@
+package HomeWork;
+
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 import org.junit.jupiter.api.Test;
 
-public class LessonOneTest {
+public class Ex4Test {
 
     @Test
     public void test() {
